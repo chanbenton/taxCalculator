@@ -54,7 +54,6 @@ function calculateSales(salesData){
 }
 
 var results = calculateSalesTax(companySalesData, salesTaxRates);
-
 /* Expected Results:
 {
   Telus: {
